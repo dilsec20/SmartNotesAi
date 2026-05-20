@@ -334,5 +334,3 @@ User toggles switch in Profile screen
 ## 👨‍🎓 Author
 
 Built as a comprehensive Android development project demonstrating modern Android architecture, Jetpack Compose UI, AI integration, local data persistence, background scheduling, and Material 3 design principles.
-#   S m a r t N o t e s A i  
- 
